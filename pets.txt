@@ -7,3 +7,5 @@ elephnat
 monkey
 parrot
 piegon
+yak
+
